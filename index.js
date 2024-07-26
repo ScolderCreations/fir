@@ -1,1 +1,2 @@
-document.getElementById("lop").src = "./img" + abs(Math.random()*25)
+document.getElementById("lop").src = 
+"./img/" + abs(Math.random()*25)
