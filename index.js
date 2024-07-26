@@ -1,2 +1,2 @@
 document.getElementById("lop"). = 
-Math.abs(Math.random()*25)+".jpeg"
+"./img/" + (Math.abs(Math.random()*50)+1)+".jpeg"
